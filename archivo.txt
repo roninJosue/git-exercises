@@ -1,3 +1,5 @@
 Linea A
 Linea B
 Linea E
+Linea C
+Archivo modificado para probar rebase -i
